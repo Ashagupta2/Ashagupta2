@@ -38,136 +38,34 @@ CGPA: **8.9**
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Programming Languages
+**💻 Languages**
+- Python • C • C++
 
-- Python
-- C
-- C++
+**🤖 AI & Data Science**
+- Machine Learning • Generative AI • EDA • Data Analysis
 
----
+**📚 Libraries**
+- Pandas • NumPy • Scikit-learn • OpenCV • Matplotlib • Seaborn
 
-## 🌐 Backend Development
+**⚡ Backend**
+- FastAPI • REST APIs • Pydantic
 
-- FastAPI
-- REST APIs
-- Pydantic
-- Uvicorn
-
----
-
-## 🤖 AI & Machine Learning
-
-- Machine Learning
-- Data Analysis
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-
----
-
-## 📚 Libraries & Frameworks
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- OpenCV
-
----
-
-## 🗄 Databases
-
+**🗄️ Database**
 - PostgreSQL
 
----
+**☁️ Cloud & MLOps**
+- Google Cloud • Docker • MLflow • DVC
 
-## ☁ Cloud Computing
+**📊 BI & Analytics**
+- Power BI • Looker • Excel
 
-- Google Cloud Platform
-- Compute Engine
-- Cloud Storage
-- Identity & Access Management (IAM)
+**🛠️ Tools**
+- Git • GitHub • VS Code • Jupyter Notebook • Google Colab
 
----
-
-## 📊 Business Intelligence
-
-- Power BI
-- Looker
-- Advanced Excel
-
----
-
-## 🔄 MLOps
-
-- MLflow
-- Data Version Control (DVC)
-
----
-
-## ⚙ Development Tools
-
-- Git
-- GitHub
-- Docker
-- VS Code
-- Jupyter Notebook
-- Google Colab
-
----
-
-## 📖 Computer Science Fundamentals
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
-
----
-
-# 🚀 Featured Projects
-
-## 🩺 Diabetes Prediction using EDA
-
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis
-- StandardScaler
-- KNN Classification
-- Confusion Matrix
-- Classification Report
-
-**Tech Stack**
-
-Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
-
----
-
-## 📊 Power BI Sales Dashboard
-
-- Interactive Dashboard
-- Sales KPIs
-- Business Insights
-- Dynamic Visualizations
-
-**Tech Stack**
-
-Power BI • Excel
-
----
-
-## 🏥 Patient Management API
-
-- REST API Development
-- CRUD Operations
-- JSON Handling
-
-**Tech Stack**
-
-FastAPI • Pydantic • Uvicorn • Python
+**📖 CS Fundamentals**
+- DSA • OOP • OS • Computer Networks
 
 ---
 
@@ -256,11 +154,11 @@ FastAPI • Pydantic • Uvicorn • Python
 
 📧 Email: guptaasha2618@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_PROFILE
+💼 LinkedIn: https://www.linkedin.com/in/asha-gupta-9a260a321/
 
 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
-☁ Google Cloud Skill Boost: YOUR_PROFILE_LINK
+
 
 ---
 
