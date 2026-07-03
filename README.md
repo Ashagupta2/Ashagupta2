@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asha Gupta</h1>
 
 <h3 align="center">
-AI Engineer | AI & Data Science Student | Generative AI Enthusiast
+AI & Data Science Student | AI Engineer Enthusiast
 </h3>
 
 <p align="center">
@@ -11,8 +11,6 @@ AI Engineer | AI & Data Science Student | Generative AI Enthusiast
 ---
 
 # 💫 About Me
-
-🎓 B.Tech CSE (AI & Data Science) @ JECRC University
 
 💡 Passionate about Artificial Intelligence, Machine Learning, Data Science and Generative AI.
 
@@ -65,7 +63,7 @@ CGPA: **8.9**
 - Git • GitHub • VS Code • Jupyter Notebook • Google Colab
 
 **📖 CS Fundamentals**
-- DSA • OOP • OS • Computer Networks
+- DSA • OOP • Operating System • Computer Networks
 
 ---
 
@@ -106,19 +104,9 @@ CGPA: **8.9**
 - AI Agents
 - Generative AI
 - Backend Development
-- Cloud Computing
-
+- RAG
 ---
 
-# 📌 Currently Working On
-
-- AI Engineering Roadmap
-- FastAPI Projects
-- GitHub Portfolio
-- AI Agent Projects
-- Open Source Contributions
-
----
 
 # 📈 GitHub Stats
 
