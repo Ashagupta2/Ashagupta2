@@ -38,33 +38,63 @@ CGPA: **8.9**
 
 ## 🛠️ Tech Stack
 
-**💻 Languages**
-- Python • C • C++
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
 
-**🤖 AI & Data Science**
-- Machine Learning • Generative AI • EDA • Data Analysis
+### 🤖 AI & Data Science
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,opencv,tensorflow,pytorch" />
+</p>
 
-**📚 Libraries**
-- Pandas • NumPy • Scikit-learn • OpenCV • Matplotlib • Seaborn
+`Machine Learning` • `Generative AI` • `EDA` • `Data Analysis`
 
-**⚡ Backend**
-- FastAPI • REST APIs • Pydantic
+---
 
-**🗄️ Database**
-- PostgreSQL
+### ⚡ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
 
-**☁️ Cloud & MLOps**
-- Google Cloud • Docker • MLflow • DVC
+`REST APIs` • `Pydantic` • `Uvicorn`
 
-**📊 BI & Analytics**
-- Power BI • Looker • Excel
+---
 
-**🛠️ Tools**
-- Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
 
-**📖 CS Fundamentals**
-- DSA • OOP • Operating System • Computer Networks
+---
 
+### ☁️ Cloud & MLOps
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,docker" />
+</p>
+
+`MLflow` • `DVC`
+
+---
+
+### 📊 BI & Analytics
+
+`Power BI` • `Looker` • `Excel`
+
+---
+
+### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+`Jupyter Notebook` • `Google Colab`
+
+---
+
+### 📚 CS Fundamentals
+
+`DSA` • `OOP` • `Operating Systems` • `Computer Networks`
 ---
 
 # 💼 Experience
@@ -110,31 +140,31 @@ CGPA: **8.9**
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashagupta2&show_icons=true&theme=tokyonight)
 
 ---
 
 # 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagupta2&layout=compact&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashagupta2&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Ashagupta2&theme=tokyonight&margin-w=15)
 
 ---
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagupta2&theme=tokyo-night)
 
 ---
 
@@ -144,7 +174,7 @@ CGPA: **8.9**
 
 💼 LinkedIn: https://www.linkedin.com/in/asha-gupta-9a260a321/
 
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+💻 GitHub: https://github.com/Ashagupta2
 
 
 
