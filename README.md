@@ -38,74 +38,31 @@ CGPA: **8.9**
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,postgresql,git,github,docker,gcp,vscode" />
 </p>
 
-### 🤖 AI & Data Science
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,opencv,tensorflow,pytorch" />
-</p>
+<div align="center">
 
-`Machine Learning` • `Generative AI` • `EDA` • `Data Analysis`
+**🤖 AI & ML** • Machine Learning • Generative AI • Pandas • NumPy • Scikit-learn • OpenCV
 
----
+**📊 Analytics** • Power BI • Looker • Excel
 
-### ⚡ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
+**📚 CS** • DSA • OOP • OS • Computer Networks
 
-`REST APIs` • `Pydantic` • `Uvicorn`
+</div>
 
----
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
-
----
-
-### ☁️ Cloud & MLOps
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,docker" />
-</p>
-
-`MLflow` • `DVC`
-
----
-
-### 📊 BI & Analytics
-
-`Power BI` • `Looker` • `Excel`
-
----
-
-### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-`Jupyter Notebook` • `Google Colab`
-
----
-
-### 📚 CS Fundamentals
-
-`DSA` • `OOP` • `Operating Systems` • `Computer Networks`
 ---
 
 # 💼 Experience
 
-### Data Visualization Associate Intern
-**Saint Louis University**
+🤖 Machine Learning Intern — FlyRank *(Present)*
 
-- Worked with PostgreSQL datasets
-- Developed dashboards using Looker
-- Collaborated with teams to deliver analytical reports
-- Built data-driven solutions for stakeholders
+📊 Data Visualization Associate Intern — Saint Louis University
+
+💡 AI Intern — College Tips
+
+📈 Data Analyst Associate — Excelerate
 
 ---
 
@@ -153,18 +110,6 @@ CGPA: **8.9**
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashagupta2&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Ashagupta2&theme=tokyonight&margin-w=15)
-
----
-
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagupta2&theme=tokyo-night)
 
 ---
 
