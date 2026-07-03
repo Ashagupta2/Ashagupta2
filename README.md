@@ -36,18 +36,6 @@ CGPA: **8.9**
 
 ---
 
-## 💻 Tech Arsenal
-
-| Category | Skills |
-|-----------|--------|
-| 💻 Languages | Python • C • C++ |
-| 🤖 AI & ML | Machine Learning • Generative AI • Pandas • NumPy • Scikit-learn • OpenCV |
-| ⚡ Backend | FastAPI • REST APIs • Pydantic |
-| 🗄️ Database | PostgreSQL |
-| ☁️ Cloud | Google Cloud • Docker |
-| 📊 Analytics | Power BI • Looker • Excel |
-| 🔧 Tools | Git • GitHub • VS Code • Jupyter • Colab |
-| 📚 Core CS | DSA • OOP • OS • Computer Networks |
 
 ---
 
@@ -61,7 +49,25 @@ CGPA: **8.9**
 
 📈 Data Analyst Associate — Excelerate
 
----
+---## 🛠 Tech Stack
+
+| 💻 Languages | 🤖 AI & ML | ⚡ Backend |
+|--------------|------------|------------|
+| Python | Machine Learning | FastAPI |
+| C | Generative AI | REST APIs |
+| C++ | Scikit-learn | Pydantic |
+
+| ☁️ Cloud | 📊 Analytics | 🗄 Database |
+|----------|--------------|------------|
+| Google Cloud | Power BI | PostgreSQL |
+| Docker | Looker | |
+
+| 🔧 Tools | 📚 Core CS |
+|-----------|------------|
+| Git | DSA |
+| GitHub | OOP |
+| VS Code | OS |
+| Jupyter | CN |
 
 # 🏆 Achievements
 
