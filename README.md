@@ -35,7 +35,21 @@ Computer Science & Engineering (AI & Data Science)
 CGPA: **8.9**
 
 ---
+## 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,postgres,docker,gcp,git,github,vscode" />
+</p>
+
+<p align="center">
+
+🤖 Machine Learning • Generative AI • Pandas • NumPy • Scikit-learn • OpenCV
+
+📊 Power BI • Looker • Excel
+
+📚 DSA • OOP • Operating Systems • Computer Networks
+
+</p>
 
 ---
 
@@ -49,25 +63,7 @@ CGPA: **8.9**
 
 📈 Data Analyst Associate — Excelerate
 
----## 🛠 Tech Stack
-
-| 💻 Languages | 🤖 AI & ML | ⚡ Backend |
-|--------------|------------|------------|
-| Python | Machine Learning | FastAPI |
-| C | Generative AI | REST APIs |
-| C++ | Scikit-learn | Pydantic |
-
-| ☁️ Cloud | 📊 Analytics | 🗄 Database |
-|----------|--------------|------------|
-| Google Cloud | Power BI | PostgreSQL |
-| Docker | Looker | |
-
-| 🔧 Tools | 📚 Core CS |
-|-----------|------------|
-| Git | DSA |
-| GitHub | OOP |
-| VS Code | OS |
-| Jupyter | CN |
+---
 
 # 🏆 Achievements
 
