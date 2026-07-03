@@ -36,21 +36,18 @@ CGPA: **8.9**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,postgresql,git,github,docker,gcp,vscode" />
-</p>
-
-<div align="center">
-
-**🤖 AI & ML** • Machine Learning • Generative AI • Pandas • NumPy • Scikit-learn • OpenCV
-
-**📊 Analytics** • Power BI • Looker • Excel
-
-**📚 CS** • DSA • OOP • OS • Computer Networks
-
-</div>
+| Category | Skills |
+|-----------|--------|
+| 💻 Languages | Python • C • C++ |
+| 🤖 AI & ML | Machine Learning • Generative AI • Pandas • NumPy • Scikit-learn • OpenCV |
+| ⚡ Backend | FastAPI • REST APIs • Pydantic |
+| 🗄️ Database | PostgreSQL |
+| ☁️ Cloud | Google Cloud • Docker |
+| 📊 Analytics | Power BI • Looker • Excel |
+| 🔧 Tools | Git • GitHub • VS Code • Jupyter • Colab |
+| 📚 Core CS | DSA • OOP • OS • Computer Networks |
 
 ---
 
